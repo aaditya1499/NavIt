@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavIT</string>
+    <string name="sample_name">Sample Name</string>
+    <string name="title_activity_sadasadasdd">sadasadasdd</string>
+    <string name="title_activity_show_map">showMap</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>

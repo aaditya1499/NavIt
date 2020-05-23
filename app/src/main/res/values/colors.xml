@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#040d2a</color>
+    <color name="colorPrimaryDark">#040d2a</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="poniter">#a94545</color>
+    <item name="grey" type="color">#464646</item>
+    <item name="greyy" type="color">#3700B3</item>
+    <item name="bg1" type="color">#1565c0</item>
+    <item name="bgg" type="color">#333333</item>
+    <color name="aaa">#215461</color>
+    <color name="white">#fff</color>
+</resources>
